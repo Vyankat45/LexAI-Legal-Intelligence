@@ -1,0 +1,28 @@
+# =========================
+# LangChain Core
+# =========================
+langchain
+langchain-openai
+langchain-huggingface
+requests
+# =========================
+# HuggingFace
+# =========================
+transformers
+huggingface-hub
+
+# =========================
+# Environment Variables
+# =========================
+python-dotenv
+
+# =========================
+# ML Utilities
+# =========================
+numpy
+pandas
+scikit-learn
+torch
+markdown
+groq
+streamlit
