@@ -26,3 +26,4 @@ torch
 markdown
 groq
 streamlit
+altair==4.2.2
