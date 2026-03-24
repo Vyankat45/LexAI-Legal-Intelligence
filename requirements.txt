@@ -1,56 +1,8 @@
-# =========================
-# LangChain Core
-# =========================
-langchain
-langchain-openai
-langchain-huggingface
-requests
-# =========================
-# HuggingFace
-# =========================
-transformers
-huggingface-hub
-
-# =========================
-# Environment Variables
-# =========================
-python-dotenv
-
-# =========================
-# ML Utilities
-# =========================
-numpy
-pandas
-scikit-learn
-torch
-markdown
-groq
-# =========================
-# LangChain Core
-# =========================
-langchain
-langchain-openai
-langchain-huggingface
-requests
-# =========================
-# HuggingFace
-# =========================
-transformers
-huggingface-hub
-
-# =========================
-# Environment Variables
-# =========================
-python-dotenv
-
-# =========================
-# ML Utilities
-# =========================
-numpy
-pandas
-scikit-learn
-torch
-markdown
-groq
 streamlit==1.32.0
 altair==4.2.2
+langchain==0.1.20
+langchain-openai==0.1.8
+langchain-core==0.1.52
+openai==1.30.1
+markdown==3.6
+groq==0.11.0
